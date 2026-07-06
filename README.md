@@ -22,14 +22,6 @@ python -m http.server 4173
 http://127.0.0.1:4173
 ```
 
-## GitHub Pages
-
-这个目录可以直接作为 GitHub 仓库根目录上传。发布 Pages 时选择：
-
-- Source: Deploy from a branch
-- Branch: main
-- Folder: /root
-
 ## 后续接入点
 
 - API 解析入口：`app.js` 中的 `startDigitize()`
